@@ -1,4 +1,4 @@
-name: Main Taski workflow
+name: main Taski workflow
 
 on:
   push:
